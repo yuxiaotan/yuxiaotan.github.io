@@ -1,11 +1,11 @@
 ---
 Layout: post
-title: The Meaning of Apologies
+title: World War II - The Network Debate of World War 2
 ---
 
-## Apologies
-We apologize on a daily basis. _I'm Sorry_ is probably one of the most
-common phrases used in the world.
+## Origins
+On July 7th, 1937, World War II broke out. It has been debated whether the
+Second Sino-Japanese War
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
